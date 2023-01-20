@@ -20,7 +20,7 @@ const Brand = () => {
       </div>
 
       <div>
-        <img src={dropbox} alt="dropbox" />
+        <img src={shopify} alt="shopify" />
       </div>
 
     </div>
